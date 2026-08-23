@@ -1,4 +1,4 @@
-Report Card Printer
+# Report Card Printer
 
 A Python program that generates and prints a formatted student report card with grades and average.
 
