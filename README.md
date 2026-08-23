@@ -1,2 +1,2 @@
-# bill-splitter
-Calculates how much each person should pay when splitting a bill, including tip.
+# report-card-printer
+Generates and prints a formatted student report card with grades and average.
